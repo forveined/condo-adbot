@@ -6,7 +6,7 @@ Before using the Adbot please make sure you have Python installed on your comput
 
 To use the Condo Adbot, follow these steps:
 
-download the Condo Advertiser repository from GitHub: https://github.com/condo-advertiser
+download the Condo Advertiser repository from GitHub: https://github.com/forveined/condo-adbot/
 
 navigate to the directory where you have saved the Condo Advertiser repository.
 
