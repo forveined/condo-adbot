@@ -8,7 +8,7 @@ To use the Condo Adbot, follow these steps:
 
 download the Condo Advertiser repository from GitHub: https://github.com/forveined/condo-adbot/
 
-navigate to the directory where you have saved the Condo Advertiser repository.
+navigate to the directory where you have saved the repository.
 
 Install the Required Packages by opening
 
