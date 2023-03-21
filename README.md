@@ -25,7 +25,7 @@ Create a channels.txt file in the same directory and list the IDs of the channel
 Run the following command to start the program:
 
 Copy code
-python condo_advertiser.py
+python main.py
 The program will prompt you to enter the Game Id of your condo
 
 It Should Work if you have a problem make a issue
